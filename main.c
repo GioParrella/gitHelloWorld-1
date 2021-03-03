@@ -5,6 +5,6 @@ int main() {
 	printf("Hello, world!\r\n");
 	printf("\n");
 	
-	return 0;
+	return 1;
 	
 }
